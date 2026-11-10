@@ -12,5 +12,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://gordigranat-ai.github.io/devops-docs/`.
-
-[черновик](missing-page.md)
